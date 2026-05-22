@@ -1,0 +1,10 @@
+{
+    "stream_name": "openvibeSignal",
+    "stream_type": "signal",
+    "channel_count": 16,
+    "nominal_srate": 250.0,
+    "channel_format": 1,
+    "source_id": "(0xb797a557, 0xbfe06dcc)",
+    "created_at": "2026-05-15T12:42:58.296402",
+    "csv_path": "recordings\\20260515_124253_openvibeSignal_signal.csv"
+}
