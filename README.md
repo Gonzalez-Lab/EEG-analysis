@@ -15,7 +15,7 @@ Rechazo automático de artefactos
 Generación de ERPs
 Extracción de features
 Clasificación con Machine Learning
-Validación cruzada (Stratified K-Fold)
+Validación cruzada (Stratified K-Fold, support vector machine y random forest)
 
 El objetivo es explorar si señales EEG obtenidas EEG multichannel permiten detectar patrones asociados a:
 
